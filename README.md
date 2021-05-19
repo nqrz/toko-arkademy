@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://arkademy.com" target="_blank"><img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg?__WB_REVISION__=1c82cf5c7c947920080dbdddd8b436e2" width="400"></a></p>
 
 # toko-arkademy
 Dibuat menggunakan Laravel, Bootstrap dan MySQL.
