@@ -27,7 +27,7 @@
         }
     </style>
 </head>
-<body class="bg-success">
+<body class="bg-info">
     <div id="app">
 
         <main class="pt-4">
