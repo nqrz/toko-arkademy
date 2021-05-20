@@ -9,7 +9,7 @@ class ProdukController extends Controller
 {
     public function index()
     {
-        $produks = Produk::orderBy('id', 'asc')->paginate(50);
+        $produks = Produk::orderBy('id', 'desc')->paginate(10);
         return view('welcome', compact('produks'));
     }
 
